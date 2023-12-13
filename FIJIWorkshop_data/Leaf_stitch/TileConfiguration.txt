@@ -1,0 +1,13 @@
+# Define the number of dimensions we are working on
+dim = 2
+
+# Define the image coordinates
+leaf-1.tif; ; (0.0, 0.0)
+leaf-2.tif; ; (112.0, 0.0)
+leaf-3.tif; ; (224.0, 0.0)
+leaf-6.tif; ; (0.0, 112.0)
+leaf-5.tif; ; (112.0, 112.0)
+leaf-4.tif; ; (224.0, 112.0)
+leaf-7.tif; ; (0.0, 224.0)
+leaf-8.tif; ; (112.0, 224.0)
+leaf-9.tif; ; (224.0, 224.0)
