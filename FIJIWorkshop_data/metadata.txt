@@ -1,0 +1,8 @@
+About the dataset:
+
+- Synthetic dataset from Light Microscopy Research Group (LMRG) for a 3D segmentation challenge I did with Ellen.
+- Dataset details:
+      - Widefield fluorescence
+      - 20x / 0.75 NA
+      - Voxel dimensions: 0.124 x 0.124 x 0.200 um
+      - Emission peak wavelength: 500 nm
